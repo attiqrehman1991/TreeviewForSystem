@@ -1,10 +1,10 @@
-package com.attiqrao.systems.tree.holder;
+package com.attiqurrehmanrao.treeview.holder;
 
 import android.content.Context;
 import android.view.View;
 import android.widget.TextView;
 
-import com.attiqrao.systems.tree.model.TreeNode;
+import com.attiqurrehmanrao.treeview.model.TreeNode;
 
 /**
  * Created by Attiq ur Rehman on 04/06/16
