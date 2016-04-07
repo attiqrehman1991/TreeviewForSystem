@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="exit">Exit</string>
+    <string name="logout">Logout</string>
+    <string name="close">Close</string>
+    <string name="continu">Continue</string>
+    <string name="ic_irrigation">Irrigation</string>
+    <string name="ic_drainage">Drainage</string>
+    <string name="ic_flood">Flood</string>
+    <string name="ic_development">Development</string>
+    <string name="ic_keyboard_arrow_down">&#xe0c5;</string>
+    <string name="ic_keyboard_arrow_left">&#xe0c6;</string>
+    <string name="ic_keyboard_arrow_right">&#xe0c7;</string>
+    <string name="ic_keyboard_arrow_up">&#xe0c8;</string>
+    <string name="ic_thumbs_down">&#xe17d;</string>
+    <string name="ic_thumbs_up">&#xe17e;</string>
+    <string name="ic_folder">&#xe09d;</string>
+    <string name="ic_zone"></string>
+    <string name="ic_circle"></string>
+    <string name="ic_check_circle_blank">&#xe03e;</string>
+    <string name="ic_division"></string>
+    <string name="ic_sub_division"></string>
+    <string name="ic_add">&#xe006;</string>
+    <string name="ic_email">&#xe087;</string>
+    <string name="ic_clear">&#xe047;</string>
+    <string name="ic_close">&#xe048;</string>
+    <string name="ic_star">&#xe161;</string>
+    <string name="ic_star_outline">&#xe163;</string>
+
+</resources>
